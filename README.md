@@ -1,3 +1,12 @@
+## Amazon Clone With React 
+
+Not only is this is my first react build, but it is my first time using javascript!  This build has full payment funtionality by using Firebase and a Stripe account.  
+
+Try It Out! 👉 https://react-clone-32c0d.web.app
+YouTube => https://www.youtube.com/watch?v=mZp4mtF-mbg
+
+******************************************************************************************************************************************************************
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
